@@ -15,7 +15,7 @@ def generate_token(length=12):
 
 api_id = 31380839
 api_hash = "d27a8c4fdfd3968c8e2e143450581c09"
-bot_token = "8485426843:AAGdXJRcKCb7ZoI-YUBl32RgP_xmP10Ujdc"
+bot_token = "8689296852:AAH-5rx-TvJ5nse2Q1C0fgfqrGhM-def6vI"
 
 BOT_USERNAME = "Rezei_bot"  # without @
 
