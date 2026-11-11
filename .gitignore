@@ -1,0 +1,9 @@
+.cache/
+.ssh/
+.termux/
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+.bash_history
+.gitconfig
